@@ -1,0 +1,26 @@
+{
+  "name": "io-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matcarey/io-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matcarey/io-demo/issues"
+  },
+  "homepage": "https://github.com/matcarey/io-demo",
+  "gitHead": "651484b9b475ba045869ed8aa7b9b23db91c91d0",
+  "readme": "# io-demo\n",
+  "readmeFilename": "README.md",
+  "_id": "io-demo@1.0.0",
+  "_shasum": "d0774def35674bae39d4166b549df1182e1f8bed",
+  "_from": "../../../../../../var/folders/fm/3r75plnj5mz4p6th5fd3ymp00000gn/T/npm-16218-0467c3e9/git-cache-9c403c3d1d5e/651484b9b475ba045869ed8aa7b9b23db91c91d0",
+  "_resolved": "git+https://github.com/matcarey/io-demo.git#651484b9b475ba045869ed8aa7b9b23db91c91d0"
+}
